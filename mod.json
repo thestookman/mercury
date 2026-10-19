@@ -10,7 +10,7 @@
 	"name": "Mercury",
 	"version": "1.0.0",
 	"developer": "Loegic",
-	"description": "The performance mod for Geometry Dash.",
+	"description": "A performance mod to enhance Geometry Dash.",
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
 	}
