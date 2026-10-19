@@ -8,7 +8,7 @@
 	},
 	"id": "loegic.mercury",
 	"name": "Mercury",
-	"version": "1.0.0",
+	"version": "5.11.2",
 	"developer": "Loegic",
 	"description": "A performance mod to enhance Geometry Dash.",
 	"dependencies": {
